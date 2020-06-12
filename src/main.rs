@@ -22,5 +22,5 @@ fn main() {
 		test(30);
 	});
 
-	thread::sleep(Duration::from_millis(10000));
+    thread::sleep(Duration::from_millis(10000));
 }
